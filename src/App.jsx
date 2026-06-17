@@ -1,9 +1,9 @@
 import React from 'react';
 import Home from './sections/Home';
 import Navbar from './components/ui/Navbar';
-import Skills from './sections/skills';
+import Skills from './sections/Skills';
 import About from './sections/About';
-import Contact from './sections/Contact';
+import Contact from './sections/contact';
 import CustomCursor from './components/CustomCursor';
 import Projects from './sections/Projects';
 
