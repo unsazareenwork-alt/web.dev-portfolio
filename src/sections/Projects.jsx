@@ -20,7 +20,7 @@ const Projects = () => {
       title: "Photobooth Experience", 
       desc: "A fun and engaging online photo capture and sharing platform.", 
       image: "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?q=80&w=800&auto=format&fit=crop",
-      link: "https://github.com/unsazareenwork-alt/cute-photoframe.git"
+      link: "https://github.com/unsazareenwork-alt/react-photobooth.git"
     },
   ];
 
